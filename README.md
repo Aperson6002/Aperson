@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @GrantGreving
-- 👀 I’m interested in ... JS, HTML
-- 🌱 I’m currently learning ... API
-- 💞️ I’m looking to collaborate on ... A game
-- 📫 How to reach me ... Add me to discord username is Grant G#8831
+- 👋 Hi, I’m Grant Greving
+- 👀 I’m interested in JS and HTML
+- 🌱 I’m currently learning API
+- 💞️ I’m looking to collaborate on a game
+- 📫 Add me to discord. My username is Grant G#8831
 
 <!---
 GrantGreving/GrantGreving is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
